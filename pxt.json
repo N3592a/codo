@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "CODO": "github:codomicrobit/pxt-codo#34cd06a090f80a1b659d83d07d7aa1a38447bb28"
+        "CODO": "github:codomicrobit/pxt-codo#34cd06a090f80a1b659d83d07d7aa1a38447bb28",
+        "pxt-rb-joypi-advanced": "github:joy-it/pxt-rb-joypi-advanced#v1.0.9"
     },
     "files": [
         "main.blocks",
